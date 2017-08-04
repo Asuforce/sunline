@@ -4,5 +4,5 @@ let browserWindowa
 
 app.on('ready', () => {
   browserWindowa = new BrowserWindow()
-  browserWindowa.loadURL('https://google.com')
+  browserWindowa.loadURL('file://' + __dirname__ + 'nippo.html')
 })
