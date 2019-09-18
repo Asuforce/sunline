@@ -11,7 +11,7 @@
   "author": "asuforce",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.6.11",
+    "electron": "^1.8.8",
     "electron-packager": "^8.7.2"
   }
 }
